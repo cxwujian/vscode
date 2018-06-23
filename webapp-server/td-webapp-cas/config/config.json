@@ -1,0 +1,19 @@
+{
+  "app": "CAS",
+  "language": "zh-cn",
+  
+  "loginUrl": "http://139.196.213.170:5000",
+
+  "casReqType": "rest",
+  "casHost": "",
+  "casApp": "cas",
+  "casProxy": "http://127.0.0.1:8080/",
+  "casProxyApp": "/td-cas-web",
+
+  "basReqType": "rest",
+  "basHost": "",
+  "basApp": "bas",
+  "basProxy": "http://139.196.224.52:18081/",
+  "basProxyApp": "/td-bas-web"
+
+}

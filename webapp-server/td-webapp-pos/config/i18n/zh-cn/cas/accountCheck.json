@@ -1,0 +1,21 @@
+{
+  "accountCheckManage": "总分核对",
+  "accTyp": "会计类别",
+  "accTyp-1": "资产类",
+  "accTyp-2": "负债类账户",
+  "accTyp-3": "损益-收入类",
+  "accTyp-4": "损益-费用类",
+  "subject": "科目代码",
+  "subjectNme": "科目名称",
+  "subjectAmtTotal": "科目金额汇总",
+  "accountAmtTotal": "所属账户金额汇总",
+  "checkResult": "核对结果",
+  "checkResult-00": "相等",
+  "checkResult-01": "不等",
+  "ccy": "币种",
+  "count":"合计",
+  "actDat": "会计日期",
+  "qryMode": "查询模式",
+  "qryMode-01": "实时查询",
+  "qryMode-02": "历史查询"
+}

@@ -1,0 +1,19 @@
+{
+  "app": "MMS",
+  "language": "zh-cn",
+  "loginUrl": "http://pos.coalapay.cn",
+
+  "mmsReqType": "rest",
+  "mmsHost": "",
+  "mmsApp": "mms",
+  "mmsProxy": "http://10.144.100.143:18084/",
+  "mmsProxyApp": "/td-mms-web",
+
+  "basReqType": "rest",
+  "basHost": "",
+  "basApp": "bas",
+  "basProxy": "http://10.144.100.143:18081/",
+  "basProxyApp": "/td-bas-web",
+  
+  "fileHost": "http://47.52.77.20:24001/"
+}

@@ -1,0 +1,18 @@
+{
+  "app": "PMS",
+  "language": "zh-cn",
+  "loginUrl": "http://pos.coalapay.cn",
+  
+  "pmsReqType": "rest",
+  "pmsHost": "",
+  "pmsApp": "pms",
+  "pmsProxy": "http://127.0.0.1:8080/",
+  "pmsProxyApp": "/td-pms-web",
+
+  "basReqType": "rest",
+  "basHost": "",
+  "basApp": "bas",
+  "basProxy": "http://47.91.196.134:18081/",
+  "basProxyApp": "/td-bas-web"
+
+}

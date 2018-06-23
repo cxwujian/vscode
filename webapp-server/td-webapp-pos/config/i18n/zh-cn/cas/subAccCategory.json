@@ -1,0 +1,11 @@
+{
+  "subAccCategoryInfoManage": "子账号类别管理",
+  "cateId": "子帐户类别ID",
+  "subAccId": "子账户类别码",
+  "subAccName": "子账户类别名称",
+  "remark": "备注",
+  "validSubAccId": "请输入子账户类别码",
+  "validSubAccName": "请输入子账户类别名称",
+  "delete": "删除",
+  "subAccCategoryInfo": "子账号类别信息"
+}

@@ -1,0 +1,21 @@
+{
+  "app": "SMS",
+  "language": "zh-cn",
+
+  "smsReqType": "rest",
+  "smsHost": "",
+  "smsApp": "tombot-web/risk",
+  "smsProxy": "localhost:8819",
+
+  "authRequestType": "authUsr",
+  "authHost": "",
+  "authApp": "tombot-authWeb",
+  "authProxy": "localhost:8820",
+
+  "mngRequestType": "rest",
+  "mngHost": "",
+  "mngApp": "tdweb/tb/mng",
+  "mngProxy": "http://devmng.tombot.cn",
+  
+  "loginUrl":"http://103.21.116.93:5000"  
+}

@@ -1,0 +1,11 @@
+{
+  "amtCdeInfManage": "金额代码维护",
+  "amtCde": "金额代码",
+  "amtCdeDes": "金额代码描述",
+  "isSystem": "系统自有标志",
+  "isSystem-0": "系统自有",
+  "isSystem-1": "运营维护",
+  "remark": "备注",
+  "validAmtCde": "请输入金额代码",
+  "validAmtCdeDes": "请输入金额代码描述"
+}

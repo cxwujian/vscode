@@ -1,0 +1,12 @@
+{
+  "app": "AGTP",
+  "language": "zh-cn",
+  "loginUrl": "http://scanpay.coalapay.cn:40010",
+
+  "agtpReqType": "rest",
+  "agtpHost": "",
+  "agtpApp": "agtp",
+  "agtpProxy": "http://127.0.0.1:8080/",
+  "agtpProxyApp": "/td-agtp-web",
+  "agtpFileHost": "http://47.91.198.18:24001/"
+}

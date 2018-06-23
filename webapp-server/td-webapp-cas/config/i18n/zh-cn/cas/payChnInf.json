@@ -1,0 +1,14 @@
+{
+  "payChnInfManage": "渠道代码查询",
+  "chnOrgCod": "合作机构条线代码",
+  "chnOrgName": "合作机构",
+  "payChnCde": "支付通道代码",
+  "payChnNme": "支付通道名",
+  "isSystem": "系统自有标志",
+  "isSystem-0": "系统自有",
+  "isSystem-1": "运营维护",
+  "isFund": "是否备付金",
+  "isFund-00": "是",
+  "isFund-01": "否",
+  "remark": "备注"
+}

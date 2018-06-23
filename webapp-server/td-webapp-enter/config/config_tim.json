@@ -1,0 +1,12 @@
+{
+  "app": "ENTER",
+  "language": "zh-cn",
+  "loginUrl": "http://scanpay.coalapay.cn:40000//",
+
+  "basReqType": "rest",
+  "basHost": "",
+  "basApp": "bas",
+  "basProxy": "http://10.144.100.143:18081/",
+  "basProxyApp": "/td-bas-web"
+
+}

@@ -1,0 +1,80 @@
+{
+  "app": "BAS",
+  "language": "zh-cn",
+  "loginUrl": "http://42.159.193.241:49007",
+
+  "bmsReqType": "rest",
+  "bmsHost": "",
+  "bmsApp": "bms",
+  "bmsProxy": "http://139.196.224.52:8488/",
+  "bmsProxyApp": "/td-bms-web",
+
+  "basReqType": "rest",
+  "basHost": "",
+  "basApp": "bas",
+  "basProxy": "http://127.0.0.1:8080/",
+  "basProxyApp": "/td-bas-web",
+  
+  "casReqType": "rest",
+  "casHost": "",
+  "casApp": "cas",
+  "casProxy": "http://127.0.0.1:8080/",
+  "casProxyApp": "/td-cas-web",
+  
+  "mmsReqType": "rest",
+  "mmsHost": "",
+  "mmsApp": "mms",
+  "mmsProxy": "http://139.196.224.52:18082/",
+  "proxyApp": "/td-mms-web",
+
+  "omsReqType": "rest",
+  "omsHost": "",
+  "omsApp": "oms",
+  "omsProxy": "http://127.0.0.1:8080/",
+  "omsProxyApp": "/td-oms-web",
+  
+  "pmsReqType": "rest",
+  "pmsHost": "",
+  "pmsApp": "pms",
+  "pmsProxy": "http://127.0.0.1:8080/",
+  "pmsProxyApp": "/td-pms-web",
+  
+  "rmsReqType": "rest",
+  "rmsHost": "",
+  "rmsApp": "rms",
+  "rmsProxy": "http://10.46.27.177:18087",
+  "rmsProxyApp": "/td-rms-web",
+  
+  "smsReqType": "rest",
+  "smsHost": "",
+  "smsApp": "sms",
+  "smsProxy": "http://127.0.0.1:8080/",
+  "smsProxyApp": "/td-sms-web",
+
+  "tmsReqType": "rest",
+  "tmsHost": "",
+  "tmsApp": "tms",
+  "tmsProxy": "http://10.46.27.177:18083/",
+  "tmsProxyApp": "/td-tms-web",
+
+
+
+  "wfReqType": "rest",
+  "wfHost": "",
+  "wfApp": "workflow",
+  "wfProxy": "http://127.0.0.1:18081/",
+  "wfProxyApp": "/td-bas-web",
+
+  "dubboRequType": "",
+  "dubboHost": "",
+  "dubboApp": "dubbo-admin",
+  "dubboProxy": "http://210.22.153.30:58091",
+  "dubboProxyApp": "dubbo-admin",
+
+  "xxlJobReqType": "",
+  "xxlJobHost": "",
+  "xxlJobApp": "",
+  "xxlJobProxy": "http://210.22.153.30:58091",
+  "xxlJobProxyApp": "xxl-job-admin"
+
+}

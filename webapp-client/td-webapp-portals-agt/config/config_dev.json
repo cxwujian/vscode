@@ -1,0 +1,21 @@
+{
+  "app": "棠宝监控预警平台",
+  "language": "zh-cn",
+
+  "requestType": "mock",
+  "defaultHost": "",
+  "defaultApp": "dva",
+  "defaultProxy": "",
+
+  "authRequestType": "mock",
+  "authHost": "",
+  "authApp": "auth",
+  "authProxy": "",
+
+  "mngRequestType": "rest",
+  "mngHost": "http://devmng.tombot.cn",
+  "mngApp": "tdweb/tb/mng",
+  "mngProxy": "",
+  
+  "loginUrl":"http://127.0.0.1:5000"  
+}

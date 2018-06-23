@@ -1,0 +1,23 @@
+{
+  "subjectDayEndBalManage": "科目余额查询",
+  "subject": "科目代码",
+  "subjectNme": "科目名称",
+  "accTyp": "会计类别",
+  "accTyp-1": "资产类",
+  "accTyp-2": "负债类",
+  "accTyp-3": "损益收入类",
+  "accTyp-4": "损益成本类",
+  "subjectLev": "科目级别",
+  "subjectLev-1": "一级科目",
+  "subjectLev-2": "二级科目",
+  "subjectLev-3": "三级科目",
+  "actDat": "会计日期",
+  "debit":"借方",
+  "credit":"贷方",
+  "initBal":"期初余额",
+  "currentAmt":"本期发生额",
+  "currentNum":"本期发生笔数",
+  "endingBal":"期末余额",
+  "ccy": "币种",
+  "count":"合计"
+}

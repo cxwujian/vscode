@@ -1,0 +1,11 @@
+{
+  "app": "ENTER",
+  "language": "zh-cn",
+
+  "basReqType": "rest",
+  "basHost": "",
+  "basApp": "bas",
+  "basProxy": "http://127.0.0.1:18081/",
+  "basProxyApp": "/td-bas-web"
+
+}

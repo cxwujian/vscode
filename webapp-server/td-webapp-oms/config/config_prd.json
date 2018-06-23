@@ -1,0 +1,21 @@
+{
+  "app": "棠宝监控预警平台",
+  "language": "zh-cn",
+
+  "omsReqType": "rest",
+  "omsHost": "",
+  "omsApp": "tombot-web/risk",
+  "omsProxy": "localhost:8819",
+
+  "authRequestType": "authUsr",
+  "authHost": "",
+  "authApp": "tombot-authWeb",
+  "authProxy": "localhost:8820",
+
+  "mngRequestType": "rest",
+  "mngHost": "",
+  "mngApp": "tdweb/tb/mng",
+  "mngProxy": "http://devmng.tombot.cn",
+  
+  "loginUrl":"http://103.21.116.93:5000"  
+}

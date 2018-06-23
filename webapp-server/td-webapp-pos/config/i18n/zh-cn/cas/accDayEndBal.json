@@ -1,0 +1,20 @@
+{
+  "accDayEndBalManage": "账户余额核对",
+  "accTyp": "会计类别",
+  "accTyp-1": "资产类",
+  "accTyp-2": "负债类",
+  "accTyp-3": "损益收入类",
+  "accTyp-4": "损益成本类",
+  "actNo": "账号",
+  "actNme": "户名",
+  "debit":"借方",
+  "credit":"贷方",
+  "initBal":"期初余额",
+  "currentAmt":"本期发生额",
+  "currentNum":"本期发生笔数",
+  "endingBal":"期末余额",
+  "ccy": "币种",
+  "actDat": "会计日期",
+  "count":"合计",
+  "blgSubject": "科目代码"
+}

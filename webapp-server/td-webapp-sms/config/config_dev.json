@@ -1,0 +1,21 @@
+{
+  "app": "SMS",
+  "language": "zh-cn",
+
+  "smsReqType": "mock",
+  "smsHost": "",
+  "smsApp": "dva",
+  "smsProxy": "",
+
+  "authRequestType": "mock",
+  "authHost": "",
+  "authApp": "auth",
+  "authProxy": "",
+
+  "mngRequestType": "rest",
+  "mngHost": "http://devmng.tombot.cn",
+  "mngApp": "tdweb/tb/mng",
+  "mngProxy": "",
+  
+  "loginUrl":"http://127.0.0.1:5000"  
+}

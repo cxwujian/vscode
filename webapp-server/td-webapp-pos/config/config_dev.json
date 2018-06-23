@@ -1,0 +1,36 @@
+{
+  "app": "BAS",
+  "language": "zh-cn",
+  "loginUrl": "http://139.196.213.170:5000",
+
+  "bmsReqType": "rest",
+  "bmsHost": "",
+  "bmsApp": "bms",
+  "bmsProxy": "http://127.0.0.1:8080/",
+  "bmsProxyApp": "/td-bms-web",
+
+  "basReqType": "rest",
+  "basHost": "",
+  "basApp": "bas",
+  "basProxy": "http://10.46.27.177:18081/",
+  "basProxyApp": "/td-bas-web",
+
+  "wfReqType": "rest",
+  "wfHost": "",
+  "wfApp": "workflow",
+  "wfProxy": "http://10.46.27.177:18081/",
+  "wfProxyApp": "/td-bas-web",
+
+  "dubboRequType": "",
+  "dubboHost": "",
+  "dubboApp": "dubbo-admin",
+  "dubboProxy": "http://210.22.153.30:58091",
+  "dubboProxyApp": "dubbo-admin",
+
+  "xxlJobReqType": "",
+  "xxlJobHost": "",
+  "xxlJobApp": "",
+  "xxlJobProxy": "http://210.22.153.30:58091",
+  "xxlJobProxyApp": "xxl-job-admin"
+
+}

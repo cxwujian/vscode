@@ -1,0 +1,12 @@
+{
+  "ccyFlgInfManage": "币种维护",
+  "ccy": "币种",
+  "ccyId": "币种编号",
+  "ccyExplain": "币种说明",
+  "isCurrency": "记账本位币",
+  "isCurrency-Y": "是",
+  "isCurrency-N": "否",
+  "remark": "备注",
+  "validCcy": "请输入币种",
+  "validCcyExplain": "请输入币种说明"
+}

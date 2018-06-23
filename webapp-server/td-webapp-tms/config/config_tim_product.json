@@ -1,0 +1,19 @@
+{
+  "app": "TMS",
+  "language": "zh-cn",
+  "loginUrl": "http://pos.coalapay.cn",
+
+  "basReqType": "rest",
+  "basHost": "",
+  "basApp": "bas",
+  "basProxy": "http://10.144.100.143:18081/",
+  "basProxyApp": "/td-bas-web",
+
+  "tmsReqType": "rest",
+  "tmsHost": "",
+  "tmsApp": "tms",
+  "tmsProxy": "http://10.144.100.143:8080/",
+  "tmsProxyApp": "/td-tms-web",
+
+  "tmsFileHost": "http://47.52.207.136:24001/"
+}

@@ -1,0 +1,26 @@
+{
+  "accManageInfManage": "账户记账管理",
+  "pkId": "ID",
+  "subject": "科目代码",
+  "cusNo": "客户号",
+  "cateId": "子帐户类别",
+  "subAccId": "子帐户类别",
+  "modeId": "记账方式",
+  "accMode-01": "实时记账",
+  "accMode-02": "固定时间记账",
+  "accMode-03": "固定间隔时间记账",
+  "regTim": "登记时间",
+  "remark": "备注",
+  "actNo": "账户账号",
+  "actNme": "账户户名",
+  "accMode": "记账方式",
+  "modeNme": "记账方式说明",
+  "fixedTim": "固定时间点集合",
+  "fixedAlterTim": "固定间隔时间",
+
+  "validSubject": "请选择科目代码",
+  "validCusNo": "请选择客户号",
+  "validCateId": "请选择子帐户类别",
+  "validModeId": "请选择记账方式",
+  "editMode": "修改记账方式"
+}

@@ -1,0 +1,21 @@
+{
+  "vaildMobile": "请输入正确的手机号码",
+
+  "vaildMerName": "请输入商户名称",
+  "vaildMerSname": "请输入商户简称",
+  "vaildBizScope": "请输入经营范围",
+  "vaildEmail": "请输入邮箱",
+  "vaildAddress": "请选择省份/城市/区县",
+  "vaildAddr": "请输入联系地址",
+  "vaildApName": "请输入法人姓名",
+  "vaildIdType": "请选择证件类型名称",
+  "vaildApId": "请填写法人证件号码",
+  "vaildMerType": "请选择商户性质",
+  "vaildCode": "请输入证号或代码",
+  "vaildOrdCod": "请输入组织机构代码",
+  "vaildTaxNo": "请输入税务登记号",
+  "vaildStlAc": "请输入结算账号",
+  "vaildStlName": "请输入结算账户名",
+  "vaildStlBnkName": "请输入账户所属银行",
+  "vaildStlCnapsName": "请输入账户所属支行"
+}

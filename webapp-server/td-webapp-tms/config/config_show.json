@@ -1,0 +1,19 @@
+{
+  "app": "TMS",
+  "language": "zh-cn",
+  "loginUrl": "http://139.219.230.184:40000",
+
+  "basReqType": "rest",
+  "basHost": "",
+  "basApp": "bas",
+  "basProxy": "http://192.168.1.36:18081/",
+  "basProxyApp": "/td-bas-web",
+
+  "tmsReqType": "rest",
+  "tmsHost": "",
+  "tmsApp": "tms",
+  "tmsProxy": "http://192.168.1.36:18087/",
+  "tmsProxyApp": "/td-tms-web",
+  "tmsFileHost": "http://139.219.230.184:24001/"
+
+}

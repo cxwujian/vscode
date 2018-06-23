@@ -1,0 +1,21 @@
+{
+  "accModeInfManage": "账户记账管理",
+  "modeId": "ID",
+  "accMode": "记账方式",
+  "accMode-01": "实时记账",
+  "accMode-02": "固定时间记账",
+  "accMode-03": "固定间隔时间记账",
+  "modeNme": "记账方式说明",
+  "fixedTim": "固定时间点",
+  "fixedAlterTim": "固定间隔时间",
+  "fixedAlterType": "间隔类型",
+  "remark": "备注",
+  "validAccMode": "请选择记账方式",
+  "validModeNme": "请输入记账方式说明",
+  "validFixedTim": "请选择固定时间点",
+  "validFixedAlterTim": "请选择固定间隔时间",
+  "fixedTimAdd": "新增时间点",
+  "hour": "时",
+  "min": "分",
+  "second": "秒"
+}

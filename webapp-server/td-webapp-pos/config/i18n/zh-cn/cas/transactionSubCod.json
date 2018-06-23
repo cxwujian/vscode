@@ -1,0 +1,19 @@
+{
+  "transSubCodeManage": "交易子码管理",
+  "txnCode": "交易码",
+  "txnDesc": "交易名称",
+  "subCod": "交易子码",
+  "subCodDesc": "交易子类名称",
+  "entryId": "分录规则代码",
+  "entryDesc": "分录规则说明",
+  "txnSts": "状态",
+  "txnSts-00": "正常",
+  "txnSts-01": "禁用",
+  "remark": "备注",
+  "matchEntry": "匹配会计分录",
+  "setTransBase": "选择交易码",
+  "transBaseQueryList": "交易码",
+  "validTxnCode": "请选择交易码",
+  "validSubCod": "请填写交易子码",
+  "validSubCodDesc": "交易子类名称"
+}

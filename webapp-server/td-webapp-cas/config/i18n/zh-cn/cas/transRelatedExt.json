@@ -1,0 +1,18 @@
+{
+  "transRelatedExtManage": "外部交易码维护",
+  "extCod": "外部交易码",
+  "extDesc": "交易名称",
+  "extTyp": "类型",
+  "extTyp-01": "普通交易",
+  "extTyp-02": "确认类交易(担保支付确认、T0确认、提现确认)",
+  "extTyp-03": "反向交易(退款)",
+  "extTyp-04": "抹帐",
+  "extTyp-05": "调账",
+  "extSts": "状态",
+  "extSts-00": "正常",
+  "extSts-01": "禁用",
+  "remark": "备注",
+  "validExtCod": "请输入外部交易码",
+  "validExtDesc": "请输入交易名称",
+  "validExtTyp": "请选择交易类型"
+}

@@ -1,0 +1,12 @@
+{
+  "app": "ENTER",
+  "language": "zh-cn",
+  "loginUrl": "http://pos.coalapay.cn/",
+
+  "basReqType": "rest",
+  "basHost": "",
+  "basApp": "bas",
+  "basProxy": "http://10.144.100.143:18081/",
+  "basProxyApp": "/td-bas-web"
+
+}

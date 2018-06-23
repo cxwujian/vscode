@@ -1,0 +1,18 @@
+{
+  "app": "OMS",
+  "language": "zh-cn",
+  "basLoginHost": "http://pos.coalapay.cn",
+
+  "basReqType": "rest",
+  "basHost": "",
+  "basApp": "bas",
+  "basProxy": "http://127.0.0.1:8080/",
+  "basProxyApp": "/td-bas-web",
+
+  "omsReqType": "rest",
+  "omsHost": "",
+  "omsApp": "oms",
+  "omsProxy": "http://127.0.0.1:18090/",
+  "omsProxyApp": "/td-oms-web"
+  
+}

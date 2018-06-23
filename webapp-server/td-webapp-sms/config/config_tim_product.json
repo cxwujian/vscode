@@ -1,0 +1,19 @@
+{
+  "app": "SMS",
+  "language": "zh-cn",
+  "loginUrl": "http://pos.coalapay.cn",
+
+  "smsReqType": "rest",
+  "smsHost": "",
+  "smsApp": "sms",
+  "smsProxy": "http://127.0.0.1:18085/",
+  "smsProxyApp": "/td-sms-web",
+
+  "basReqType": "rest",
+  "basHost": "",
+  "basApp": "bas",
+  "basProxy": "http://139.219.230.184:18081/",
+  "basProxyApp": "/td-bas-web",
+
+  "smsFileHost": "http://47.52.207.136:24001/"
+}

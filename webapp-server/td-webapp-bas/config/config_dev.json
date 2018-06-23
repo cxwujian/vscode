@@ -1,0 +1,30 @@
+{
+  "app": "BAS",
+  "language": "zh-cn",
+  "loginUrl": "http://http://42.159.193.241:49007",
+
+  "basReqType": "rest",
+  "basHost": "",
+  "basApp": "bas",
+  "basProxy": "http://192.168.1.11:18081/",
+  "basProxyApp": "/td-bas-web",
+
+  "wfReqType": "rest",
+  "wfHost": "",
+  "wfApp": "workflow",
+  "wfProxy": "http://192.168.1.11:18081/",
+  "wfProxyApp": "/td-bas-web",
+
+  "dubboRequType": "",
+  "dubboHost": "",
+  "dubboApp": "dubbo-admin",
+  "dubboProxy": "http://192.168.1.11:58091",
+  "dubboProxyApp": "dubbo-admin",
+
+  "xxlJobReqType": "",
+  "xxlJobHost": "",
+  "xxlJobApp": "",
+  "xxlJobProxy": "http://192.168.1.11:58091",
+  "xxlJobProxyApp": "xxl-job-admin"
+
+}

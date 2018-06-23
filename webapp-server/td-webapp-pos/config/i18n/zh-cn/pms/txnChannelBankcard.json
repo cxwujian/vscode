@@ -1,0 +1,5 @@
+[
+  { "value": "0001", "label": "银联（UnionPay）"},
+  { "value": "0002", "label": "Visa"},
+  { "value": "0003", "label": "MasterCard"}
+]
