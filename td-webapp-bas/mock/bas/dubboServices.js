@@ -19,7 +19,7 @@ module.exports = {
         jobGroup: 'DEFAULT',
         jobName: `实时结算数据重置${i}`,
         jobCron: '0 30 0 * * ? *',
-        jobDesc: '当日未打款实时结算数据重置',
+        jobDesc: '当日未打款实时结算数据重置!',
         jobClass: 'com.xxl.job.admin.core.jobbean.RemoteHttpJobBean',
         addTime: '1484554873000',
         updateTime: '1488446813000',
