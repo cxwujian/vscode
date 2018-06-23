@@ -48,7 +48,7 @@ module.exports = {
         icon: 'user',
         text: '基础数据',
         children: [
-          { key: '000-05-01', text: '节假日维护', to: 'bas/basDataManage/holidayManage' },
+          { key: '000-05-01', text: '节假日d维护', to: 'bas/basDataManage/holidayManage' },
           { key: '000-05-02', text: '银行信息管理', to: 'bas/basDataManage/pubBankManage' },
           { key: '000-05-03', text: '卡bin信息管理', to: 'bas/basDataManage/pubUnionfitManage' },
           { key: '000-05-04', text: '地区信息管理', to: 'bas/basDataManage/pubAreaManage' },
